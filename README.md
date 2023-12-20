@@ -7,29 +7,22 @@
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=Dreamer-07&show_icons=true&hide_border=true" />
   </a>
 </p>
-欢迎来到我的 Gihutb! 这里是一枚学习 Java 的小小白，目前处于休假中，过一段时间会开始找工作，等稳定下来就会恢复更新啦，嘿嘿
+欢迎来到我的 Gihutb! 这里是一枚学习 Java 的小白，还会一点 Vue 和 React(studying.....)
 
 - 当代木曾义仲兼人理保卫者
-- 法奥斯学院-军事学院学生首席
 - K-ON 后援会 vvvvvvvvvip 会员
-- 柚子粉，仁川人，云阴阳师
+- 柚子粉，仁川人
 
-### ✔️ 正在学习
-- Hadoop(大数据)
+### ✔️ v21 版本预计新增技能
+- React(NextJs?)
+- Rust
+- Web3?
 
-### 😍 喜欢的事情
-- 陪小巴 ❤
-- 钱!! 💴
-- 打🏀
-- 弹贝斯🎸
-- 画画🖊
-
-### 💡 2022 目标:
-- 事业 & 学业 upup ↑
-- 可以赚钱帮家里补贴一点费用(还能买手办!)
-- 学习容器化技术(K8S/Docker/Jenkins)
-- 学习不同系统的特性，并完成相关项目的练习
-- 国服第一个 120 级水巴!!
+### 📕 v21 版本新增目标
+- 英语 & 事业 up ↑
+- 自考毕业
+- 写技术博客
+- 学贝斯！
 
 ### 🛠 感兴趣的知识:
-- App 开发，DevOps，大数据，Unity/UE 游戏开发
+- JVM，DevOps，Unity/UE 游戏开发
