@@ -7,7 +7,7 @@
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=Dreamer-07&show_icons=true&hide_border=true" />
   </a>
 </p>
-欢迎来到我的 Gihutb! 这里是一枚学习 Java 的小白，还会一点 Vue 和 React(studying.....)
+欢迎来到我的 Github! 这里是一枚学习 Java 的小白，还会一点 Vue 和 React(studying.....)
 
 - 当代木曾义仲兼人理保卫者
 - K-ON 后援会 vvvvvvvvvip 会员
